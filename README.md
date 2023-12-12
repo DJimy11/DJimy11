@@ -1,7 +1,7 @@
 ## Olá, eu sou Dumilde Silva 👋
 
 
-- 🌱 Actualmente estudando JavaScript, CSS3 e HTML5
+- 🌱 Actualmente estudando PYTHON Flet 
 
 <div>
   <a href ="https://github.com/DJimy11">
